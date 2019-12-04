@@ -19,6 +19,7 @@ Complete a single resource application which will be a Blog with Posts following
 5. [Getting Up and Running](https://guides.rubyonrails.org/getting_started.html#getting-up-and-running)
 
 `git commit`: "Done Part 1"
+
 `git push` and Pull Request
 
 ### Part 2: 
@@ -27,14 +28,17 @@ Complete a single resource application which will be a Blog with Posts following
 7. [Refactoring](https://guides.rubyonrails.org/getting_started.html#refactoring)
 
 `git commit`: "Done Part 2"
+
 `git push`
+
+### Part 3:
 
 8. [Deleting Comments](https://guides.rubyonrails.org/getting_started.html#deleting-comments)
 9. [Security](https://guides.rubyonrails.org/getting_started.html#security)
 
-### Part 3:
 
 `git commit`: "Done Part 3"
+
 `git push`
 
 ---
