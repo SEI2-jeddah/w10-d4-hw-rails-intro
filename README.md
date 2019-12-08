@@ -22,7 +22,7 @@ Complete a single resource application which will be a Blog with Posts following
 
 `git push` and Pull Request
 
-### Part 2: 
+### Part 2:
 
 6. [Adding a Second Model](https://guides.rubyonrails.org/getting_started.html#adding-a-second-model)
 7. [Refactoring](https://guides.rubyonrails.org/getting_started.html#refactoring)
@@ -55,4 +55,4 @@ Your opinion for this homework is very important! Please fill up the following q
 
 
 
-
+------
