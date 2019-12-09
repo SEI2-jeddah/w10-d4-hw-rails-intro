@@ -1,3 +1,10 @@
 <h1>#show page</h1>
 <h2><%= @article.title %></h2>
 <h3><%= @article.text %></h3>
+
+<%= link_to 'all articles', articles_path %>
+
+
+
+<%= render 'comments/comments' %>
+<%= render 'comments/form' %>
