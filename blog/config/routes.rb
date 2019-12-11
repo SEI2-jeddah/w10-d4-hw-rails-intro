@@ -1,11 +1,13 @@
-
 Rails.application.routes.draw do
-  get 'welcome/index'
- 
-  root 'welcome#index'
-  Blog::application.routes.draw do
-    get 'articles/new'
-    root 'articles#new'
-    resources :articles
+  # get 'welcome/index'
+  # get 'welcome/create'
+  # get 'welcome/show'
+  # get 'welcome/update'
+  # get 'welcome/new'
+  resources :articles do 
+      resources :comments
   end
+  resources :welcome 
+  root 'welcome#index'
+  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
